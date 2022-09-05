@@ -9,4 +9,8 @@ This project is based on creating a website for style setters and mountain mover
 Language: HTML
 Style language: CSS
 
-+===============================================================================================+
++==============================================================================================+
+
+
+To view project
+run with live server....extension.
