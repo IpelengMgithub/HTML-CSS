@@ -5,3 +5,14 @@ A project that was based on showing my love for the fashion industry
 
 
 ![fashion](spectrum.png)
+
++==============================================================================================+
+
+Language: HTML
+Style language: CSS
+
++==============================================================================================+
+
+
+To view project
+run with live server....extension.
